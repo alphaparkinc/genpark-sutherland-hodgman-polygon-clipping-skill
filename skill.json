@@ -1,0 +1,17 @@
+{
+  "name": "genpark-sutherland-hodgman-polygon-clipping-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Sutherland-Hodgman Polygon Clipping Engine for Viewport & Spatial Boundary Truncation",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "computational-geometry",
+    "polygon-clipping",
+    "sutherland-hodgman",
+    "spatial-geometry"
+  ]
+}
